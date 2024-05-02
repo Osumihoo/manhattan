@@ -1,0 +1,104 @@
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\manhattan.dll.config
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\manhattan.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\manhattan.pdb
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Buffers.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Memory.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Numerics.Vectors.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Buffers.xml
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Memory.xml
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Numerics.Vectors.xml
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.AssemblyReference.cache
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.ResolveComReference.cache
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CoreCompileInputs.cache
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CopyComplete
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.dll
+C:\Users\PC SQUID PLUS\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.pdb
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\manhattan.dll.config
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\manhattan.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\manhattan.pdb
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\Newtonsoft.Json.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Buffers.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Memory.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Numerics.Vectors.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\Newtonsoft.Json.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Buffers.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Memory.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Numerics.Vectors.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.AssemblyReference.cache
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.ResolveComReference.cache
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.Properties.Resources.resources
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.GenerateResource.cache
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CoreCompileInputs.cache
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CopyComplete
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.dll
+C:\Users\PC SQUID PLUS\Desktop\manhattan\manhattan\obj\x64\Debug\manhattan.pdb
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\manhattan.dll.config
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\manhattan.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\manhattan.pdb
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\Newtonsoft.Json.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Buffers.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Memory.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Numerics.Vectors.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\Newtonsoft.Json.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Buffers.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Memory.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Numerics.Vectors.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.ResolveComReference.cache
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.Properties.Resources.resources
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CopyComplete
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.dll
+C:\Users\Ismael\Desktop\Nova\manhattan\manhattan\obj\x64\Debug\manhattan.pdb
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\manhattan.dll.config
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\manhattan.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\manhattan.pdb
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Newtonsoft.Json.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Sap.Data.Hana.v4.5.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Buffers.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Memory.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Numerics.Vectors.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Newtonsoft.Json.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Sap.Data.Hana.v4.5.pdb
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Sap.Data.Hana.v4.5.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\Sap.Data.Hana.v4.5.dll.config
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Buffers.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Memory.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Numerics.Vectors.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.AssemblyReference.cache
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.ResolveComReference.cache
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.Properties.Resources.resources
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.GenerateResource.cache
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.dll
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.pdb
+C:\Users\PRIDE BEAVER\source\repos\manhattan\manhattan\obj\x64\Debug\manhattan.csproj.Up2Date
